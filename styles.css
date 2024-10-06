@@ -1,0 +1,40 @@
+
+body {
+    font-family: "Helvetica Neue";
+    font-size: 2.5vh;
+}
+
+.nav-link {
+    color: rgba(255, 255, 255, 0.8);
+    font-size: 12px;
+}
+
+.nav-link:hover {
+    color: white;
+}
+
+.greyishColor{
+    background-color: #1d1d1f;
+}
+
+.fs-xl {
+    font-size: 6vh;
+}
+
+.biggerPadding {
+    padding-left: 1vw;
+    padding-right: 1vw;
+}
+
+.h-80 {
+    height: 80%;
+}
+
+.top-70 {
+    top: 70%;
+}
+
+.px-100 {
+    padding-left: 100px;
+    padding-right: 100px;
+}
