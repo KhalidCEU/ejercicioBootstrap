@@ -30,11 +30,38 @@ body {
     height: 80%;
 }
 
-.top-70 {
-    top: 70%;
+.h-50vh {
+    height: 50vh;
 }
 
-.px-100 {
-    padding-left: 100px;
-    padding-right: 100px;
+.mt-15 {
+    margin-top: 15%;
+}
+
+.top-15 {
+    top: 15%;
+}
+
+.top-23 {
+    top: 23%;
+}
+
+.top-30 {
+    top: 30%;
+}
+
+.top-35 {
+    top: 35%;
+}
+
+.top-38 {
+    top: 38%;
+}
+
+.top-85 {
+    top: 85%;
+}
+
+.min-width-150 {
+    min-width: 150px;
 }
