@@ -4,6 +4,8 @@ body {
     font-size: 2.5vh;
 }
 
+
+
 .nav-link {
     color: rgba(255, 255, 255, 0.8);
     font-size: 12px;
@@ -12,6 +14,9 @@ body {
 .nav-link:hover {
     color: white;
 }
+
+/* CUSTOM CLASSES */
+/*                */
 
 .greyishColor{
     background-color: #1d1d1f;
@@ -26,6 +31,8 @@ body {
     padding-right: 1vw;
 }
 
+/* Height */
+
 .h-80 {
     height: 80%;
 }
@@ -33,10 +40,18 @@ body {
 .h-50vh {
     height: 50vh;
 }
+/* ------ */
+
+
+/* Margin */
 
 .mt-15 {
     margin-top: 15%;
 }
+/* ------ */
+
+
+/* Top */
 
 .top-15 {
     top: 15%;
@@ -61,7 +76,10 @@ body {
 .top-85 {
     top: 85%;
 }
+/* ------ */
 
+/* Width */
 .min-width-150 {
     min-width: 150px;
 }
+/* ------ */
